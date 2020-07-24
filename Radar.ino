@@ -61,3 +61,4 @@ delayMicroseconds(10);digitalWrite(trigPin,LOW);
 duration=pulseIn(echoPin,HIGH);//ReadstheechoPin,returnsthesoundwavetraveltimeinmicroseconds
 distance=duration*0.034/2;returndistance;
 }
+

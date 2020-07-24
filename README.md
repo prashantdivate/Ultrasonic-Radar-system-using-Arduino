@@ -1,7 +1,9 @@
-  This project is done as mini project of our 
-  group of 3 students :
-  1.DIVATE PRASHANT
-  2.MANDLIK MRUNAL
-  3.JATHAR VISHAL
-  all the rights of this project by act of 2008 to our group.
-  Thank You.........!
+Trying to do demonstration of RADAR system using Arduino IDE and processing softwares:
+
+Simulation detects and locate the object.
+
+IDE code includes interfacing of servo motor and ultrasonic sensor- HCSR04
+
+Guidlines to use:
+* first run the IDE code (i.e Radar.ino) and then run arduino processing code.
+* It detects the object between 0-40cm and led blinks when object is detected.
